@@ -54,7 +54,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter:  
   username               : &twitter
 facebook:
   username               :
@@ -104,7 +104,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "cafigueroab"
   vine             :
   weibo            :
   xing             :
