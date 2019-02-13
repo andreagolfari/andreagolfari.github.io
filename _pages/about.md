@@ -12,4 +12,4 @@ I am a PhD student in Economics at [Boston College](https://bc.edu/bc-web/school
 
 
 
-You can find my CV here.
+You can find my [CV](http://cafigueroab.github.io/files/cv_2.pdf) here.
