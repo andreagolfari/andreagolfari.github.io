@@ -9,5 +9,7 @@ redirect_from:
 ---
 I am a PhD student in Economics at <u><a href="{https://bc.edu/bc-web/schools/mcas/departments/economics.html}">Boston College</a>.</u> My main interests lie at the intersection of empirical industrial organization, quantitative marketing and market design.
 
+[Boston College](https://bc.edu/bc-web/schools/mcas/departments/economics.html)
+
 
 You can find my CV here.
