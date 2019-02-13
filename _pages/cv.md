@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Full CV here
+Full [CV](http://cafigueroab.github.io/files/cv_2.pdf) here
 
