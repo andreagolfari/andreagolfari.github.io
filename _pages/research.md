@@ -12,4 +12,4 @@ author_profile: true
 
 ## Work in Progress
 
-- Competition Between Platforms: Evidence from Stock Exchanges, with [Fernando Luco](https://sites.google.com/site/flucoe/)
+- Platform Integration and Competition, with [Fernando Luco](https://sites.google.com/site/flucoe/)
