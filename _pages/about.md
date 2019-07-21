@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Economics at [Boston College](https://bc.edu/bc-web/schools/mcas/departments/economics.html). My main interests lie in the fields of Empirical Industrial Organization, Quantitative Marketing and Market Design.
+I am a PhD student in Economics at [Boston College](https://bc.edu/bc-web/schools/mcas/departments/economics.html). My main interests lie in the fields of Empirical Industrial Organization and Quantitative Marketing.
 
 
 
