@@ -14,5 +14,5 @@ author_profile: true
 
 ## Work in Progress
 
-- Platform Integration and Competition, with [Fernando Luco](https://sites.google.com/site/flucoe/)
+- Integration and Competition between Stock Exchanges, with [Fernando Luco](https://sites.google.com/site/flucoe/)
 
