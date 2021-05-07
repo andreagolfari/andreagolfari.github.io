@@ -12,6 +12,6 @@ author_profile: true
 
 ## Work in Progress
 
-- Integration and Competition between Stock Exchanges, with [Fernando Luco](https://sites.google.com/site/flucoe/)
+- Vertical Structure and Market (Dis)integration: Evidence from the Chilean Stock Market, with [Fernando Luco](https://sites.google.com/site/flucoe/)
 
 - Strategic Switching Behavior in Health Insurance Markets, with [Fabián Duarte](http://econ.uchile.cl/es/academico/fabduarte)
