@@ -12,7 +12,7 @@ author_profile: true
 
 ## Work in Progress
 
-- Adverse Selection, Equity, and Lapsing in Markets with Guaranteed Renewable Contracts: Evidence from Chile **Job Market Paper**
+- Adverse Selection, Equity, and Lapsing in Markets with Guaranteed Renewable Contracts: Evidence from Chile ***Job Market Paper***
 
 - Vertical Structure and Market (Dis)integration: Evidence from the Chilean Stock Market, with [Fernando Luco](https://sites.google.com/site/flucoe/)
 
