@@ -12,6 +12,7 @@ author_profile: true
 
 - Principles of Economics - Prof. Chandini Sankaran
 - Advanced Research Methods: Advertising and Media Markets (x2) - Prof. Julie Mortimer 
+- Economic Justice - Prof. John Piderit
 - Econometrics Instructor STATA Lab 
 
 ### Teaching Fellow
