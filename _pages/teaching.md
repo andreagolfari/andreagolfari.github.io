@@ -11,11 +11,10 @@ author_profile: true
 ### Teaching Assistant
 
 - Principles of Economics - Prof. Chandini Sankaran
--  Advanced Research Methods: Advertising and Media Markets (x2) - Prof. Julie Mortimer 
-
+- Advanced Research Methods: Advertising and Media Markets (x2) - Prof. Julie Mortimer 
+- Econometrics Instructor STATA Lab 
 
 ### Teaching Fellow
-- Econometrics STATA Lab 
 - Statistics
 - Principles of Economics 
 - Econometrics Methods
