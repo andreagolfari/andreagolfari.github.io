@@ -19,6 +19,6 @@ author_profile: true
 <!-- - Strategic Switching Behavior in Health Insurance Markets, with [Fabián Duarte](http://econ.uchile.cl/es/academico/fabduarte)
  -->
 
-## Discussions
+## Conference Discussions
 
 - [Intertemporal Substitution in Response to Non-Linear Health Insurance Contracts](https://cafigueroab.github.io/files/Discussion_ASHEcon_June_2022_Figueroa.pdf) by Katlyn Hettinger - ASHEcon 11th Annual Conference 
