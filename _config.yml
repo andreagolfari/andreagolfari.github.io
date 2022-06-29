@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://cafigueroab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cafigueroab/cafigueroab.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x500.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -81,7 +81,7 @@ author:
   name             : "Cristián Figueroa"
   avatar           : "cafigueroa.png"
   bio              : "Economics Ph.D. student at Boston College"
-  location         : "Boston, MA"
+  location         : "Boston College"
   employer         :
   googlescholar    :
   email            : figuercr@bc.edu
