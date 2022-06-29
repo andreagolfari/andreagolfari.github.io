@@ -13,4 +13,4 @@ Before joining Boston College, I completed my Masters in Economics from Pontific
 
 I am on the job market and I will be available for interviews at the ASSA 2023.
 
-You can find my [CV](http://cafigueroab.github.io/files/figueroa_CV.pdf) here.
+<!-- You can find my [CV](http://cafigueroab.github.io/files/figueroa_CV.pdf) here. -->
