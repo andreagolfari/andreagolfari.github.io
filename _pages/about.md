@@ -12,4 +12,4 @@ I am a PhD Candidate in Economics at [Boston College](https://bc.edu/bc-web/scho
 
 
 
-You can find my [CV](http://cafigueroab.github.io/files/cv_2.pdf) here.
+You can find my [CV](http://cafigueroab.github.io/files/figueroa_CV.pdf) here.
