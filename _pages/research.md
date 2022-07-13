@@ -6,12 +6,10 @@ excerpt: "Research"
 author_profile: true
 ---
 
-Working Papers
----
+## Working Papers
 - [Earthquakes and Brand Loyalty: Beyond the Short-Term Effects of Product Unavailability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325923), with [Andrés Musalem](http://www.dii.uchile.cl/~amusalem/) and [Carlos Noton](http://www.dii.uchile.cl/~cnoton/)
 
-Work in Progress
----
+## Work in Progress
 - Adverse Selection, Equity, and Lapsing in Markets with Guaranteed Renewable Contracts: Evidence from Chile (*Job Market Paper*)
 
 - Vertical Structure and Market Fragmentation: Evidence from the Chilean Stock Market, with [Fernando Luco](https://flucoe.github.io/)
@@ -19,8 +17,7 @@ Work in Progress
 <!-- - Strategic Switching Behavior in Health Insurance Markets, with [Fabián Duarte](http://econ.uchile.cl/es/academico/fabduarte)
  -->
 
-Conference Discussions
----
+## Conference Discussions
 - [Intertemporal Substitution in Response to Non-Linear Health Insurance Contracts](https://cafigueroab.github.io/files/Discussion_ASHEcon_June_2022_Figueroa.pdf) by Katlyn Hettinger - ASHEcon 11th Annual Conference 
 
 
