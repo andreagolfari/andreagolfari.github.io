@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Boston College, Department of Economics  2019 - 2023"
 permalink: /teaching/
 excerpt: "Teaching"
 author_profile: true
----
-
-Boston College, Department of Economics  2019 - 2023
 ---
 
 ## Teaching Assistant
