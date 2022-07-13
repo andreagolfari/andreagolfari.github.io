@@ -17,8 +17,10 @@ author_profile: true
 
 ### Teaching Fellow
 - Statistics
-- Principles of Economics 
 - Econometrics Methods
+
+### Dean of Summer Session Teaching Fellowship
+- Principles of Economics 
 
 ### Awards
 - Donald J. White Teaching Assistant Excellence Award, 2021
