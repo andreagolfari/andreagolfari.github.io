@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cooming soon!"
+title: "Coming soon!"
 permalink: /jmp/
 excerpt: "Job Market Paper"
 author_profile: true
