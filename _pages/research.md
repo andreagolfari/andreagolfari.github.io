@@ -21,6 +21,6 @@ author_profile: true
 - [Intertemporal Substitution in Response to Non-Linear Health Insurance Contracts](https://cafigueroab.github.io/files/Discussion_ASHEcon_June_2022_Figueroa.pdf) by Katlyn Hettinger - ASHEcon 11th Annual Conference 
 
 ## Awards
--  H. Michael Mann Fund Dissertation Fellowship, Boston College (2021)
--  Diversity Scholarship, ASHEcon (2021)
+-  H. Michael Mann Fund Dissertation Fellowship, Boston College, 2021
+-  Diversity Scholarship, ASHEcon, 2021
 
