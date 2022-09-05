@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD Candidate in Economics at [Boston College](https://bc.edu/bc-web/schools/mcas/departments/economics.html). My research interests lie in the fields of Empirical Industrial Organization, Health Economics and Quantitative Marketing. My job market paper studies the effect of unintendedly induced adverse selection on health insurance markets with Guaranteed Renewable contracts. 
+I am a PhD Candidate in Economics at [Boston College](https://bc.edu/bc-web/schools/mcas/departments/economics.html). My research interests lie in the fields of Empirical Industrial Organization, Health Economics and Quantitative Marketing. My job market paper studies the policy impacts of induced adverse selection in health insurance markets with guaranteed renewable contracts and the interaction between induced adverse selection and reclassification risk protection.
 
 Before joining Boston College, I completed my Masters in Economics from Pontificia Universidad Católica de Chile.
 
