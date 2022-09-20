@@ -14,6 +14,8 @@ author_profile: true
 
 - Vertical Structure and Market Fragmentation: Evidence from the Chilean Stock Market, with [Fernando Luco](https://flucoe.github.io/)
 
+- Lapsing in Health Insurance Markets with Guaranteed Renewable Contracts 
+
 <!-- - Strategic Switching Behavior in Health Insurance Markets, with [Fabián Duarte](http://econ.uchile.cl/es/academico/fabduarte)
  -->
 
