@@ -20,6 +20,6 @@ author_profile: true
 - Principles of Economics 
 
 ## Awards
-- Donald J. White Teaching Assistant Excellence Award, Boston College, 2021
 - Donald J. White Teaching Fellow Excellence Award, Boston College, 2022
 - Dean of Summer Session Teaching Fellowship, Boston College, 2022
+- Donald J. White Teaching Assistant Excellence Award, Boston College, 2021
