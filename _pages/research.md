@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 ## Working Papers
-- Adverse Selection and Equity in Markets with Guaranteed Renewable Contracts: Evidence from Chile (*Job Market Paper*)
+- Adverse Selection and Equity in Markets with Guaranteed Renewable Contracts: Evidence from Chile <br />
+*Job Market Paper*
 
 - [Earthquakes and Brand Loyalty: Beyond the Short-Term Effects of Product Unavailability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325923), with [Andrés Musalem](http://www.dii.uchile.cl/~amusalem/) and [Carlos Noton](http://www.dii.uchile.cl/~cnoton/) <br />
 Reject and Resumbit at ***Quantitative Marketing and Economics***
