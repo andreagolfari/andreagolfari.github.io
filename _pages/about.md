@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="justify"> I am a PhD Candidate in Economics at [Boston College](https://bc.edu/bc-web/schools/mcas/departments/economics.html). My research interests lie in the fields of Empirical Industrial Organization, Health Economics and Quantitative Marketing. My job market paper investigates how gender-based pricing bans impact health insurance markets characterized by the use of guaranteed renewable contracts. </p>
+I am a PhD Candidate in Economics at [Boston College](https://bc.edu/bc-web/schools/mcas/departments/economics.html). My research interests lie in the fields of Empirical Industrial Organization, Health Economics and Quantitative Marketing. My job market paper investigates how gender-based pricing bans impact health insurance markets characterized by the use of guaranteed renewable contracts. </p>
 
 
 Before joining Boston College, I completed my Masters in Economics from Pontificia Universidad Católica de Chile.
