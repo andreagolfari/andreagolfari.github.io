@@ -6,10 +6,12 @@ excerpt: "Research"
 author_profile: true
 ---
 
-## Working Papers
+## Job Market Paper
 - Adverse Selection and Equity in Markets with Guaranteed Renewable Contracts: Evidence from Chile <br />
-*Job Market Paper*
 
+***Presented at:*** ASHEcon 11th Annual Conference (Austin), Boston College, Economics Graduate Student Conference (WashU St. Louis), SEA 92nd Annual Meeting (Fort Lauderdale), Young Economist Symposium (Yale)
+
+## Working Papers
 - [Earthquakes and Brand Loyalty: Beyond the Short-Term Effects of Product Unavailability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325923), with [Andrés Musalem](http://www.dii.uchile.cl/~amusalem/) and [Carlos Noton](http://www.dii.uchile.cl/~cnoton/) <br />
 Reject and Resumbit at ***Quantitative Marketing and Economics***
 
