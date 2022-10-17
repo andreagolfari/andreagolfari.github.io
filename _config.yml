@@ -79,7 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Cristián Figueroa"
-  avatar           : "Cristián Figueroa0794_crop.jpg"
+  avatar           : "profile_v1.png"
+#   avatar           : "Cristián Figueroa0794_crop.jpg"
   bio              : "Job Market Candidate, Economics Department Boston College"
   location         : "Boston College"
   employer         :
