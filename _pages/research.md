@@ -5,8 +5,6 @@ permalink: /research/
 excerpt: "Research"
 author_profile: true
 ---
-/files/Draft.pdf
-
 ## Job Market Paper
 - [Adverse Selection and Equity in Markets with Guaranteed Renewable Contracts: Evidence from Chile](https://cafigueroab.github.io/files/Draft.pdf)<br />
 
