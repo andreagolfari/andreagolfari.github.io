@@ -6,7 +6,7 @@ excerpt: "Research"
 author_profile: true
 ---
 ## Job Market Paper
-- [Adverse Selection and Equity in Markets with Guaranteed Renewable Contracts: Evidence from Chile](https://cafigueroab.github.io/files/Draft.pdf)<br />
+- [Adverse Selection and Equity in Markets with Guaranteed Renewable Contracts: Evidence from Chile]([https://cafigueroab.github.io/files/Draft.pdf](https://www.dropbox.com/s/pg9m67xa67nqmls/Draft.pdf?dl=0))<br />
 
 ***Presented at:*** ASHEcon 11th Annual Conference (Austin), Boston College, Economics Graduate Student Conference (WashU St. Louis), SEA 92nd Annual Meeting (Fort Lauderdale), Young Economist Symposium (Yale)
 
