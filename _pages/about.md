@@ -9,15 +9,12 @@ redirect_from:
 text-align: justify
 --- 
 <p align="justify">
-I am a Job Market Candidate in Finance at <a href="[https://zicklin.baruch.cuny.edu/academic-programs/doctoral/)](https://zicklin.baruch.cuny.edu/academic-programs/doctoral/)">Baruch College</a>. 
+I am a Job Market Candidate in Finance at <a href="https://zicklin.baruch.cuny.edu/academic-programs/doctoral/">Baruch College</a>. 
   
-  My research interests lie in the fields of Empirical Industrial Organization, Health Economics and Quantitative Marketing. My job market paper investigates how gender-based pricing bans impact health insurance markets characterized by the use of guaranteed renewable contracts.
+I conduct research in the areas of Banking and Financial Intermediation, Capital Regulation, Macroprudential Policy and Systemic Risk. My current work is focused on the role of Contingent Convertible Capital Instruments (CoCos) in the regulatory capital stack of global financial institutions.
 </p>
 
 <p align="justify">
-Before joining Boston College, I completed my Masters in Economics from Pontificia Universidad Católica de Chile.
+Before joining Baruch College, I received my Masters in International Affairs (International Finance and Economic Policy concentration) and Bachelor's degree in Economics from Columbia University, and a Laurea in Communication Sciences from the University of Bologna.
 </p>
 
-I am on the job market and I will be available for interviews at the ASSA 2023.
-
-<!-- You can find my [CV](http://cafigueroab.github.io/files/figueroa_CV.pdf) here. -->
