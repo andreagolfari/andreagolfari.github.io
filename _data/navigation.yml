@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Job Market Paper"
-    url: https://cafigueroab.github.io/files/cristian_figueroa_jmp.pdf
+#  - title: "Job Market Paper"
+    url: https://cafigueroab.github.io/files/andrea_golfari_jmp.pdf
 
   - title: "Research"
     url: /research/
@@ -10,4 +10,4 @@ main:
     url: /teaching/       
 
   - title: "CV"
-    url: /files/figueroa_CV.pdf
+    url: /files/golfari_CV.pdf
