@@ -1,25 +1,26 @@
 ---
 layout: archive
-title: "Boston College, Department of Economics  2019 - 2023"
+title: "Baruch College"
 permalink: /teaching/
 excerpt: "Teaching"
 author_profile: true
 ---
 
+## Adjunct Assistant Professor
+- STA 9708 Managerial Statistics (MBA)
+- BUS 2000 Business Fundamentals (BA)
+- STA 2000 Business Statistics (BA)
+
+## Adjunct Lecturer
+- FIN 3000 Principles of Finance (BA)
+- STA 2000 Business Statistics (BA)
+
 ## Teaching Assistant
-- Principles of Economics - Prof. Chandini Sankaran
-- Advanced Research Methods: Advertising and Media Markets (x2) - Prof. Julie Mortimer 
-- Economic Justice - Prof. John Piderit
-- Econometrics Instructor STATA Lab 
+- Statistical Analysis for Business Decision (PhD)
+- Macroeconomics (BA)
+- Investment Analysis (BA)
 
-## Teaching Fellow
-- Statistics
-- Econometrics Methods
 
-## Dean of Summer Session Teaching Fellowship
-- Principles of Economics 
 
-## Awards
-- Donald J. White Teaching Fellow Excellence Award, Boston College, 2022
-- Dean of Summer Session Teaching Fellowship, Boston College, 2022
-- Donald J. White Teaching Assistant Excellence Award, Boston College, 2021
+
+
