@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cristián Figueroa"
+title                    : "Andrea Golfari"
 title_separator          : "-"
-name                     : &name "Cristián Figueroa"
+name                     : &name "Andrea Golfari"
 description              : &description "personal description"
-url                      : https://cafigueroab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andreagolfari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cafigueroab/cafigueroab.github.io"
+repository               : "andreagolfari/andreagolfari.github.io"
 teaser                   : "500x500.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cristián Figueroa"
+  name             : "Andrea Golfari"
   avatar           : "profile_v1.png"
 #   avatar           : "Cristián Figueroa0794_crop.jpg"
-  bio              : "Job Market Candidate, Economics Department Boston College"
+  bio              : "Job Market Candidate in Finance, Baruch College, City University of New York"
   location         : "Boston College"
   employer         :
   googlescholar    :
-  email            : figuercr@bc.edu
+  email            : andrea.golfari@baruch.cuny.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cafigueroab"
+  github           : "andreagolfari"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "cristián-andrés-figueroa-berrios-30285823"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "cafigueroab"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
