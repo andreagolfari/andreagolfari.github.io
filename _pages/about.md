@@ -9,7 +9,9 @@ redirect_from:
 text-align: justify
 --- 
 <p align="justify">
-I am a PhD Candidate in Economics at <a href="https://bc.edu/bc-web/schools/mcas/departments/economics.html">Boston College</a>. My research interests lie in the fields of Empirical Industrial Organization, Health Economics and Quantitative Marketing. My job market paper investigates how gender-based pricing bans impact health insurance markets characterized by the use of guaranteed renewable contracts.
+I am a Job Market Candidate in Finance at <a href="[https://zicklin.baruch.cuny.edu/academic-programs/doctoral/)](https://zicklin.baruch.cuny.edu/academic-programs/doctoral/)">Baruch College</a>. 
+  
+  My research interests lie in the fields of Empirical Industrial Organization, Health Economics and Quantitative Marketing. My job market paper investigates how gender-based pricing bans impact health insurance markets characterized by the use of guaranteed renewable contracts.
 </p>
 
 <p align="justify">
