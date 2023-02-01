@@ -6,7 +6,9 @@ excerpt: "Research"
 author_profile: true
 ---
 ## Working Papers
-- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4218062), with Linda Allen.
+- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4218062), with Linda Allen. Journal of International Financial Markets, Institutions & Money. Minor revisions and resubmit.
+
+Using a hand-collected, comprehensive sample of contingent capital bonds (CoCos) issued by banks over the 2009-2019 period, we identify shifts in CoCo design features that nullify their putative salutary macroprudential benefits.  Increasingly, CoCos are issued without punitive wealth transfers from shareholders to bondholders, thereby removing incentives for bank managers to take preemptive, risk-reducing action in order to prevent the CoCo from being triggered. Further, CoCo issuance can be used to circumvent supervisory discretion over bonus and dividend payouts.  Bank managers are aware of these loopholes.  Financial markets price CoCo design features in yield spreads upon issuance.
 
 ***Presented at:*** 
 - 5th Edition of International Risk Management Conference (IRMC) on ”Risk Management and Sustainability in an Era of Pandemic and Climate Change”. Bari, Italy (July 2022).
@@ -14,25 +16,12 @@ author_profile: true
 - Bank of Israel. Jerusalem, Israel (July 2022).
 - Special Theme Conference of the Journal of International Financial Markets, Institutions & Money (JIFMIM) and Finance Research Letters (FRL) on ”The Effectiveness of Financial Regulation”. Rishon LeTsyon, Israel (June 2022).
 
-
-- [Earthquakes and Brand Loyalty: Beyond the Short-Term Effects of Product Unavailability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325923), with [Andrés Musalem](http://www.dii.uchile.cl/~amusalem/) and [Carlos Noton](http://www.dii.uchile.cl/~cnoton/) <br />
-Reject and Resumbit at ***Quantitative Marketing and Economics***
-
-
 ## Work in Progress
-- Vertical Structure and Market Fragmentation: Evidence from the Chilean Stock Market, with [Fernando Luco](https://flucoe.github.io/)
+- Contingent Convertible Bonds and Equity Value, with Linda Allen, Joonsung Won and Jingdan Liu.
+- International Regulatory Frameworks and the Role of CoCo Capital Instruments.
+- Industry Concentration and Momentum Crashes.
 
-- Lapsing in Health Insurance Markets with Guaranteed Renewable Contracts 
-
-<!-- - Strategic Switching Behavior in Health Insurance Markets, with [Fabián Duarte](http://econ.uchile.cl/es/academico/fabduarte)
- -->
-
-## Conference Discussions
-- [Intertemporal Substitution in Response to Non-Linear Health Insurance Contracts](https://cafigueroab.github.io/files/Discussion_ASHEcon_June_2022_Figueroa.pdf) by Katlyn Hettinger <br /> 
-ASHEcon 11th Annual Conference 
 
 ## Awards
--  Hayek Fund Grant Institute for Humane Studies, George Mason University, 2022
--  H. Michael Mann Fund Dissertation Fellowship, Boston College, 2021
--  Diversity Scholarship, ASHEcon, 2021
+-  Mills & Tannenbaum Award for Outstanding Scholarship, Baruch College
 
