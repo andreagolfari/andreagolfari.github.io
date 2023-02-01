@@ -5,12 +5,16 @@ permalink: /research/
 excerpt: "Research"
 author_profile: true
 ---
-## Job Market Paper
-- [Adverse Selection and Equity in Markets with Guaranteed Renewable Contracts: Evidence from Chile](https://cafigueroab.github.io/files/cristian_figueroa_jmp.pdf)<br />
-
-***Presented at:*** ASHEcon 11th Annual Conference (Austin), Boston College, Economics Graduate Student Conference (WashU St. Louis), SEA 92nd Annual Meeting (Fort Lauderdale), Young Economist Symposium (Yale)
-
 ## Working Papers
+- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4218062), with Linda Allen.
+
+***Presented at:*** 
+- 5th Edition of International Risk Management Conference (IRMC) on ”Risk Management and Sustainability in an Era of Pandemic and Climate Change”. Bari, Italy (July 2022).
+* 28th Dubrovnik Economic Conference. Dubrovnik, Croatia (July 2022).
+- Bank of Israel. Jerusalem, Israel (July 2022).
+- Special Theme Conference of the Journal of International Financial Markets, Institutions & Money (JIFMIM) and Finance Research Letters (FRL) on ”The Effectiveness of Financial Regulation”. Rishon LeTsyon, Israel (June 2022).
+
+
 - [Earthquakes and Brand Loyalty: Beyond the Short-Term Effects of Product Unavailability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325923), with [Andrés Musalem](http://www.dii.uchile.cl/~amusalem/) and [Carlos Noton](http://www.dii.uchile.cl/~cnoton/) <br />
 Reject and Resumbit at ***Quantitative Marketing and Economics***
 
