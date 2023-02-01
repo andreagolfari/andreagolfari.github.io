@@ -15,6 +15,6 @@ I conduct research in the areas of Banking and Financial Intermediation, Capital
 </p>
 
 <p align="justify">
-Before joining Baruch College, I received my Masters in International Affairs (International Finance and Economic Policy concentration) and Bachelor's degree in Economics from Columbia University, and a Laurea in Communication Sciences from the University of Bologna.
+Before joining Baruch College, I received my Masters in International Affairs (International Finance and Economic Policy concentration) and Bachelor of Arts in Economics from Columbia University, and a Laurea in Communication Sciences from the University of Bologna.
 </p>
 
