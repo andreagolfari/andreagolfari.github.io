@@ -9,9 +9,13 @@ redirect_from:
 text-align: justify
 --- 
 <p align="justify">
-I am a Job Market Candidate in Finance at <a href="https://www.baruch.cuny.edu/">Baruch College</a>. \\
+I am a Job Market Candidate in Finance at <a href="https://www.baruch.cuny.edu/">Baruch College</a>.
   
-I conduct research in the areas of Banking and Financial Intermediation, Capital Regulation, Macroprudential Policy and Systemic Risk. My current work is focused on the role of Contingent Convertible Capital Instruments (CoCos) in the regulatory capital stack of global financial institutions.
+I conduct research in the areas of Banking and Financial Intermediation, Capital Regulation, Macroprudential Policy and Systemic Risk.
+</p>
+
+<p align="justify">
+My current work is focused on the role of Contingent Convertible Capital Instruments (CoCos) in the regulatory capital stack of global financial institutions.
 </p>
 
 <p align="justify">
