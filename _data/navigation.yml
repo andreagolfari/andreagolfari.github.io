@@ -1,7 +1,11 @@
 # main links links
 main:
-#  - title: "Job Market Paper"
-#    url: https://cafigueroab.github.io/files/andrea_golfari_jmp.pdf
+
+  - title: "CV"
+    url: /files/andrea_golfari_CV.pdf
+    
+  - title: "Job Market Paper"
+    url: /files/andrea_golfari_JMP.pdf
 
   - title: "Research"
     url: /research/
@@ -9,5 +13,4 @@ main:
   - title: "Teaching"
     url: /teaching/       
 
-  - title: "CV"
-    url: /files/andrea_golfari_CV.pdf
+
