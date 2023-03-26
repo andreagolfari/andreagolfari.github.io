@@ -17,7 +17,7 @@ the detriment of financial market stability and macroprudential objectives.
 
 ***Presented at:*** 
 - 5th Edition of International Risk Management Conference (IRMC) on ”Risk Management and Sustainability in an Era of Pandemic and Climate Change”. Bari, Italy (July 2022).
-* 28th Dubrovnik Economic Conference. Dubrovnik, Croatia (July 2022).
+- 28th Dubrovnik Economic Conference. Dubrovnik, Croatia (July 2022).
 - Bank of Israel. Jerusalem, Israel (July 2022).
 - Special Theme Conference of the Journal of International Financial Markets, Institutions & Money (JIFMIM) and Finance Research Letters (FRL) on ”The Effectiveness of Financial Regulation”. Rishon LeTsyon, Israel (June 2022).
 
