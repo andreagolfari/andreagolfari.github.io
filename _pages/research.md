@@ -6,7 +6,7 @@ excerpt: "Research"
 author_profile: true
 ---
 ## Publications
-- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4218062), with Linda Allen. Journal of International Financial Markets, Institutions & Money, forthcoming.
+- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://www.sciencedirect.com/science/article/pii/S104244312300029X), with Linda Allen. Journal of International Financial Markets, Institutions & Money, forthcoming.
 
 Using a hand-collected, comprehensive sample of contingent capital bonds (CoCos) issued by banks over the 2009-2019 period, we identify shifts in CoCo design features
 that nullify their putative salutary macroprudential benefits. Increasingly, CoCos are issued without punitive wealth transfers from shareholders to bondholders, thereby 
