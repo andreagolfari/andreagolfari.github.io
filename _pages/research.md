@@ -8,7 +8,7 @@ author_profile: true
 ## Job Market Paper
 - [CoCo-Induced Collapse and Bank Equity Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4496833), with Linda Allen and Joonsung Won.
 
-Featured in: [FEN Banking \& Insurance eJournal](https://www.ssrn.com/link/Banking-and-Insurance.html) (Vol. 14 No. 293,  08/21/2023).
+Featured in: [FEN Banking & Insurance eJournal](https://www.ssrn.com/link/Banking-and-Insurance.html) (Vol. 14 No. 293,  08/21/2023).
 
 Abstract: Using equity returns on all banks (across 28 countries) that ever issued contingent convertible capital securities (CoCos), we identify a “CoCo-induced collapse option,” that 
 apparently was exercised during the March 2023 failure of Credit Suisse. Reflecting this option’s value, abnormal announcement returns for non-dilutive CoCos with positive 
