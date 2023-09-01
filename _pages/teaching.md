@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Baruch College"
+title: "Teaching Experience"
 permalink: /teaching/
 excerpt: "Teaching"
 author_profile: true
