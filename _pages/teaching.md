@@ -6,19 +6,23 @@ excerpt: "Teaching"
 author_profile: true
 ---
 
-## Adjunct Assistant Professor
+### Visiting Assistant Professor, Colorado College
+- International Finance
+- Principles of Macroeconomics
+
+### Adjunct Assistant Professor, Baruch College - City University of New York
 - STA 9708 Managerial Statistics (MBA)
 - BUS 2000 Business Fundamentals (BA)
 - STA 2000 Business Statistics (BA)
 
-## Adjunct Lecturer
+### Adjunct Lecturer, Baruch College - City University of New York
 - FIN 3000 Principles of Finance (BA)
 - STA 2000 Business Statistics (BA)
 
-## Teaching Assistant
-- Statistical Analysis for Business Decision (PhD)
-- Macroeconomics (BA)
-- Investment Analysis (BA)
+### Teaching Assistant, Baruch College - City University of New York
+- STA 70000 Statistical Analysis for Business Decision (PhD)
+- ECO 1002  Macroeconomics (BA)
+- FIN 3710  Investment Analysis (BA)
 
 
 
