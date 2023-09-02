@@ -9,6 +9,7 @@ author_profile: true
 ### Visiting Assistant Professor, Colorado College
 - International Finance (Undergraduate)
 - Principles of Macroeconomics (Undergraduate)
+- Macroeconomic Theory (Undergraduate)
 
 ### Adjunct Assistant Professor, Baruch College - City University of New York
 - STA 9708 Managerial Statistics (MBA)
