@@ -24,4 +24,7 @@ Before earning my PhD from Baruch College, I received a Masters in International
 </p>
 
 ### Contact Information
+Andrea Golfari
+<! 
 <table style="font-family: Verdana, &quot;sans-serif&quot;; font-size: 11px;" width="100%" border="0"><tbody><tr><td style="height: 10px;" width="100%"><strong><font style="font-size: 11px;">ANDREA GOLFARI</font></strong></td></tr>  <tr><td style="height: 10px;"><font style="font-size: 11px;">Visiting Assistant Professor</font></td></tr>  <tr><td style="height: 10px;"><strong>Department of Economics and Business</strong></td></tr> <tr><td style="height: 10px;">Palmer Hall, Room 101-C</td></tr> <tr><td style="height: 10px;">&nbsp;</td></tr> <tr><td style="height: 10px;"><a href="mailto:agolfari2023@coloradocollege.edu" target="_blank" style="color: rgb(51, 51, 51);">agolfari2023@coloradocollege.edu</a></td></tr> <tr><td style="height: 10px;"><strong>o</strong> (719) 389-6470</td></tr> <tr><td style="height: 10px;"><strong>c</strong> (646) 388-2092</td></tr>   <tr><td style="height: 10px;">&nbsp;</td></tr> <tr><td style="height: 10px;"><span style="color: rgb(208, 155, 44);"><strong>COLORADO COLLEGE</strong></span></td></tr> <tr><td style="height: 10px;">14 E. Cache La Poudre St.</td></tr> <tr><td style="height: 10px;">Colorado Springs, CO 80903</td></tr> <tr><td style="height: 10px;"><a href="http://www.coloradocollege.edu" target="_blank" style="color: rgb(51, 51, 51);">www.coloradocollege.edu</a></td></tr></tbody></table>
+-->
