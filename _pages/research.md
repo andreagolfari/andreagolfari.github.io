@@ -6,9 +6,9 @@ excerpt: "Research"
 author_profile: true
 ---
 ## Job Market Paper
-- [CoCo-Induced Collapse and Bank Equity Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4496833), with Linda Allen and Joonsung Won.
+- [CoCo-Induced Collapse and Bank Equity Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4496833){:target="_blank"}, with Linda Allen and Joonsung Won.
 
-Featured in: [FEN Banking & Insurance eJournal](https://www.ssrn.com/link/Banking-and-Insurance.html) (Vol. 14 No. 293,  08/21/2023).
+Featured in: [FEN Banking & Insurance eJournal](https://www.ssrn.com/link/Banking-and-Insurance.html){:target="_blank"} (Vol. 14 No. 293,  08/21/2023).
 
 Abstract: Using equity returns on all banks (across 28 countries) that ever issued contingent convertible capital securities (CoCos), we identify a “CoCo-induced collapse option,” that 
 apparently was exercised during the March 2023 failure of Credit Suisse. Reflecting this option’s value, abnormal announcement returns for non-dilutive CoCos with positive 
@@ -17,7 +17,7 @@ negative announcement returns. Banks issuing dilutive CoCos overperform (exceedi
 are more prevalent in common and French-civil law countries.
 
 ## Publications
-- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.101761), with Linda Allen. Journal of International Financial Markets, Institutions & Money, Volume 84, April 2023, 101761.
+- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.101761){:target="_blank"}, with Linda Allen. Journal of International Financial Markets, Institutions & Money, Volume 84, April 2023, 101761.
 
 Abstract: Using a hand-collected, comprehensive sample of contingent capital bonds (CoCos) issued by banks over the 2009-2019 period, we identify shifts in CoCo design features
 that nullify their putative salutary macroprudential benefits. Increasingly, CoCos are issued without punitive wealth transfers from shareholders to bondholders, thereby 
