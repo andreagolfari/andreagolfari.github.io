@@ -17,7 +17,7 @@ negative announcement returns. Banks issuing dilutive CoCos overperform (exceedi
 are more prevalent in common and French-civil law countries.
 
 ## Publications
-- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.10176), with Linda Allen. Journal of International Financial Markets, Institutions & Money, Volume 84, April 2023, 101761.
+- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.101761), with Linda Allen. Journal of International Financial Markets, Institutions & Money, Volume 84, April 2023, 101761.
 
 Abstract: Using a hand-collected, comprehensive sample of contingent capital bonds (CoCos) issued by banks over the 2009-2019 period, we identify shifts in CoCo design features
 that nullify their putative salutary macroprudential benefits. Increasingly, CoCos are issued without punitive wealth transfers from shareholders to bondholders, thereby 
