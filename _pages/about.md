@@ -9,7 +9,7 @@ redirect_from:
 text-align: justify
 --- 
 <p align="justify">
-I am a 2024 Job Market Candidate in Finance, and Visiting Assistant Professor at <a href="https://www.coloradocollege.edu/basics/contact/directory/people/golfari_andrea.html" target="_blank" rel="noopener">Colorado College</a> after completing my PhD at <a href="https://www.baruch.cuny.edu/" target="_blank" rel="noopener">Baruch College</a>.
+I am a 2024 Job Market Candidate, and Visiting Assistant Professor at <a href="https://www.coloradocollege.edu/basics/contact/directory/people/golfari_andrea.html" target="_blank" rel="noopener">Colorado College</a> after completing my PhD in Finance at <a href="https://zicklin.baruch.cuny.edu/" target="_blank" rel="noopener">Baruch College, Zicklin School of Business</a>.
   
 I conduct research in the areas of Banking and Financial Intermediation, Capital Regulation, Macroprudential Policy and Systemic Risk.
 </p>
