@@ -38,5 +38,5 @@ COLORADO COLLEGE<br>
 
 Colorado Springs, CO 80903<br>
 
-www.coloradocollege.edu<br>
+
 
