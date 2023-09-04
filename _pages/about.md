@@ -24,7 +24,7 @@ Before earning my PhD from Baruch College, I received a Masters in International
 </p>
 
 ### Contact Information
-<p style="font-size: medium; font-family: Verdana;">
+<p style="font-size: medium; font-family: Verdana; font-stretch: semi-expanded;">
 ANDREA GOLFARI<br>
 Visiting Assistant Professor<br>
 Department of Economics & Business<br>
