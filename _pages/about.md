@@ -24,7 +24,8 @@ Before earning my PhD from Baruch College, I received a Masters in International
 </p>
 
 ### Contact Information
-<p style="font-size: small">Andrea Golfari<br>
+<p style="font-size: small">
+Andrea Golfari<br>
 Visiting Assistant Professor<br>
 Department of Economics and Business<br>
 Palmer Hall, 101C
