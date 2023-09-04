@@ -35,6 +35,7 @@ Palmer Hall, 101C
 <span style="color: rgb(208, 155, 44);font-weight:bold;">COLORADO COLLEGE</span><br>
 14 E. Cache La Poudre St.<br>
 Colorado Springs, CO 80903<br>
+United States
 </p>
 
 
