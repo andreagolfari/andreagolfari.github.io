@@ -24,14 +24,14 @@ Before earning my PhD from Baruch College, I received a Masters in International
 </p>
 
 ### Contact Information
-<p style="font-size: small">
+<p style="font-size: medium">
 Andrea Golfari<br>
 Visiting Assistant Professor<br>
 Department of Economics and Business<br>
 Palmer Hall, 101C
 </p>
 
-<p style="font-size: smaller">
+<p style="font-size: small">
 <span style="color: rgb(208, 155, 44);font-weight:bold;">COLORADO COLLEGE</span><br>
 14 E. Cache La Poudre St.<br>
 Colorado Springs, CO 80903<br>
