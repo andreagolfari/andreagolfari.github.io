@@ -23,7 +23,7 @@ My current work is focused on the role of Contingent Convertible Capital Instrum
 Before earning my PhD from Baruch College, I received a Masters in International Affairs (International Finance and Economic Policy concentration) and Bachelor of Arts in Economics from Columbia University, and a Laurea in Communication Sciences from the University of Bologna.
 </p>
 
-### Contact Information
+## Contact Information
 <p style="font-size: medium; font-family: Verdana; font-stretch: expanded;">
 <span style="font-size: large; font-weight:bold; font-variant: small-caps;">Andrea Golfari</span><br>
 Visiting Assistant Professor<br>
