@@ -6,10 +6,15 @@ excerpt: "Teaching"
 author_profile: true
 ---
 
+### Assistant Professor, Colorado College
+- BU 317 Investments (Undergraduate)
+- BU 316 Theory of Business Finance (Undergraduate)
+- BU 205 Principles of Financial Accounting (Undergraduate)
+
 ### Visiting Assistant Professor, Colorado College
-- International Finance (Undergraduate)
-- Principles of Macroeconomics (Undergraduate)
-- Macroeconomic Theory (Undergraduate)
+- EC 377 International Finance (Undergraduate)
+- EC 102 Principles of Macroeconomics (Undergraduate)
+- EC 302 Macroeconomic Theory (Undergraduate)
 
 ### Adjunct Assistant Professor, Baruch College - City University of New York
 - STA 9708 Managerial Statistics (MBA)
