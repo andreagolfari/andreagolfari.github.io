@@ -20,10 +20,11 @@ Abnormal announcement returns for CoCos with ELACs are positive, reflecting ELAC
 - Eastern Finance Association (EFA) 60th Annual Meeting. St. Petersburg, USA (April 2024).
 - Financial Management Association (FMA) 2024 European Conference. Turin, Italy (June 2024).
 
-[Latest Version](/files/Allen_Golfari_Won_ELACs_not_TLACs.pdf)
+[Latest Version](/files/Allen_Golfari_Won_ELACs_not_TLACs.pdf){:target="_blank"}
 
 ## Publications
-- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.101761){:target="_blank"}, with Linda Allen. Journal of International Financial Markets, Institutions & Money, Volume 84, April 2023, 101761.
+- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.101761){:target="_blank"}, with Linda Allen. 
+Journal of International Financial Markets, Institutions & Money, Volume 84, April 2023, 101761.
 
 Abstract: Using a hand-collected, comprehensive sample of contingent capital bonds (CoCos) issued by banks over the 2009-2019 period, we identify shifts in CoCo design features
 that nullify their putative salutary macroprudential benefits. Increasingly, CoCos are issued without punitive wealth transfers from shareholders to bondholders, thereby 
