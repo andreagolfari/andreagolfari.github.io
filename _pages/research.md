@@ -20,6 +20,8 @@ Abnormal announcement returns for CoCos with ELACs are positive, reflecting ELAC
 - Eastern Finance Association (EFA) 60th Annual Meeting. St. Petersburg, USA (April 2024).
 - Financial Management Association (FMA) 2024 European Conference. Turin, Italy (June 2024).
 
+[Latest Version](/files/Allen_Golfari_Won_ELACs_not_TLACs.pdf)
+
 ## Publications
 - [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.101761){:target="_blank"}, with Linda Allen. Journal of International Financial Markets, Institutions & Money, Volume 84, April 2023, 101761.
 
