@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Working Papers
 
-- [ELACs not TLACs: CoCo Design and Troubled Bank Shareholder Loss Mitigation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4496833){:target="_blank"}, with Linda Allen and Joonsung Won.
+### [ELACs not TLACs: CoCo Design and Troubled Bank Shareholder Loss Mitigation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4496833){:target="_blank"}, with Linda Allen and Joonsung Won.
 
 Featured in: [FEN Banking & Insurance eJournal](https://www.ssrn.com/link/Banking-and-Insurance.html){:target="_blank"} (Vol. 14 No. 293,  08/21/2023).
 
@@ -23,7 +23,7 @@ Abnormal announcement returns for CoCos with ELACs are positive, reflecting ELAC
 [Latest Version](/files/Allen_Golfari_Won_ELACs_not_TLACs.pdf){:target="_blank"}
 
 ## Publications
-- [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.101761){:target="_blank"}, with Linda Allen. 
+### [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.101761){:target="_blank"}, with Linda Allen. 
 Journal of International Financial Markets, Institutions & Money, Volume 84, April 2023, 101761.
 
 Abstract: Using a hand-collected, comprehensive sample of contingent capital bonds (CoCos) issued by banks over the 2009-2019 period, we identify shifts in CoCo design features
