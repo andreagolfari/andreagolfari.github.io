@@ -10,7 +10,7 @@ text-align: justify
 --- 
 
 <p align="justify">
-I am Visiting Assistant Professor of Economics and Business at <a href="https://www.coloradocollege.edu/basics/contact/directory/people/golfari_andrea.html" target="_blank" rel="noopener">Colorado College</a> after completing my PhD in Finance at <a href="https://zicklin.baruch.cuny.edu/" target="_blank" rel="noopener">Baruch College, Zicklin School of Business</a>.
+I am Assistant Professor of Economics and Business at <a href="https://www.coloradocollege.edu/basics/contact/directory/people/golfari_andrea.html" target="_blank" rel="noopener">Colorado College</a> after completing my PhD in Finance at <a href="https://zicklin.baruch.cuny.edu/" target="_blank" rel="noopener">Baruch College, Zicklin School of Business</a>.
 </p>
 
 <p align="justify">

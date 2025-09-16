@@ -7,20 +7,18 @@ author_profile: true
 ---
 ## Working Papers
 
-[ELACs not TLACs: CoCo Design and Troubled Bank Shareholder Loss Mitigation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4496833){:target="_blank"}, with Linda Allen and Joonsung Won.
+[A Pecking Order in Contingent Convertible Bond (CoCo) Financing](hhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=4496833){:target="_blank"}, with Linda Allen and Joonsung Won.
 
-Featured in: [FEN Banking & Insurance eJournal](https://www.ssrn.com/link/Banking-and-Insurance.html){:target="_blank"} (Vol. 14 No. 293,  08/21/2023).
-
-Abstract: Using hand-collected data (across 27 countries) on all contingent convertible capital bonds (CoCos) issued during 2009-2021, we identify a shift in design toward nondilutive instruments with low CoCo trigger levels that specify positive wealth transfers from bondholders to stockholders upon bank failure, thereby transforming CoCos from TLACs (Total Loss Absorbing Capacity) to ELACs (Equity-protecting Loss Absorbing Capacity). If Credit Suisse’s CoCos had not had ELACs, shareholder payoffs from the March 2023 failure would have declined 36.5%. 
-
-Abnormal announcement returns for CoCos with ELACs are positive, reflecting ELACs’ extreme loss mitigation for stockholders. Systemic risk-reducing, dilutive CoCos without ELACs are more prevalent in common and French-civil law countries and have significantly negative announcement returns, reflecting managerial commitment to recapitalize troubled banks. Banks issuing CoCos without ELACs overperform during periods of high aggregate uncertainty. 
+Abstract: Originally designed as an equity-diluting disciplinary mechanism, contingent convertible bonds (CoCos) have evolved to permit less punitive nondilutive triggers. Using a novel measure of CoCo dilution and a comprehensive hand-collected dataset covering 27 countries, our empirical findings suggest a pecking order in CoCo issuance, where banks generally prefer less information sensitive, nondilutive (debt-like) structures, but shift to incentive-compatible (equity-like) dilutive CoCos to address risk shifting agency conflicts during periods of aggregate uncertainty. Negative abnormal returns are found for dilutive CoCo announcements, but not for nondilutive CoCos. This negative market reaction reverses during periods of heightened aggregate uncertainty, with dilutive CoCos generating positive announcement returns. The equity and CoCo bonds of banks issuing dilutive CoCos perform more favorably when aggregate uncertainty is elevated. 
 
 ***Presented at:*** 
 - Midwest Finance Association (MFA) 2024 Annual Meeting. Chicago, USA (March 2024).
 - Eastern Finance Association (EFA) 60th Annual Meeting. St. Petersburg, USA (April 2024).
 - Financial Management Association (FMA) 2024 European Conference. Turin, Italy (June 2024).
 
-[Latest Version](/files/Allen_Golfari_Won_ELACs_not_TLACs.pdf){:target="_blank"}
+[Latest Version](/files/Allen_Golfari_Won_A_Pecking_Order_in_Contingent_Convertible_Bond_Financing.pdf){:target="_blank"}
+
+
 
 ## Publications
 [Do CoCos Serve the Goals of Macroprudential Supervisors or Bank Managers?](https://doi.org/10.1016/j.intfin.2023.101761){:target="_blank"}, with Linda Allen. 
