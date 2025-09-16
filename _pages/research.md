@@ -12,6 +12,8 @@ author_profile: true
 Abstract: Originally designed as an equity-diluting disciplinary mechanism, contingent convertible bonds (CoCos) have evolved to permit less punitive nondilutive triggers. Using a novel measure of CoCo dilution and a comprehensive hand-collected dataset covering 27 countries, our empirical findings suggest a pecking order in CoCo issuance, where banks generally prefer less information sensitive, nondilutive (debt-like) structures, but shift to incentive-compatible (equity-like) dilutive CoCos to address risk shifting agency conflicts during periods of aggregate uncertainty. Negative abnormal returns are found for dilutive CoCo announcements, but not for nondilutive CoCos. This negative market reaction reverses during periods of heightened aggregate uncertainty, with dilutive CoCos generating positive announcement returns. The equity and CoCo bonds of banks issuing dilutive CoCos perform more favorably when aggregate uncertainty is elevated. 
 
 ***Presented at:*** 
+- Financial Managers Association (FMA) 2025 Annual Meeting (Vancouver, 2025).
+- European Financial Management Association (EFMA) 2025 Annual Meeting (Athens, 2025).
 - Midwest Finance Association (MFA) 2024 Annual Meeting. Chicago, USA (March 2024).
 - Eastern Finance Association (EFA) 60th Annual Meeting. St. Petersburg, USA (April 2024).
 - Financial Management Association (FMA) 2024 European Conference. Turin, Italy (June 2024).
